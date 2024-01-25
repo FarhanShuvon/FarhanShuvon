@@ -6,9 +6,8 @@
 I am passionate about competitive programming and algorithmic problem-solving. My journey in the world of coding began with a fascination for solving complex problems efficiently. Over the years, I have honed my skills in data structures and algorithms, participating in various coding competitions and contests.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: VUE JS / REACT / JS / HTML / CSS / Data Structures and Algorithm
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JAVA / DART  
 - 💬 Ask me about Competitive Programming 
 - 📫 How to reach me: cse_182210012101150@lus.ac.bd 
