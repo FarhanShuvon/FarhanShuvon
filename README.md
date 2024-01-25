@@ -6,7 +6,7 @@
 I am passionate about competitive programming and algorithmic problem-solving. My journey in the world of coding began with a fascination for solving complex problems efficiently. Over the years, I have honed my skills in data structures and algorithms, participating in various coding competitions and contests.
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS / Data Structures and Algorithm
+Skills: C / C++/ PYTHON / DART/ JAVA / Data Structures and Algorithm
 
 - 🌱 I’m currently learning JAVA / DART  
 - 💬 Ask me about Competitive Programming 
